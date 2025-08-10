@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420623359449",
+    "project_id": "project1-20337",
+    "storage_bucket": "project1-20337.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420623359449:android:cedb8bacde7db254f40dc8",
+        "android_client_info": {
+          "package_name": "com.example.belajar_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcK3v6HlG5RVDo9fZAJjbJ-Sw-bNxD8jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
